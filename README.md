@@ -21,7 +21,7 @@ checking  correct formart of the name used to login by the user.
 checking password if it contains any invalid characters.
 
 ### CellNumber Validation
-checking if the number is valid.
+Checking if the number is valid.
 
 
 
