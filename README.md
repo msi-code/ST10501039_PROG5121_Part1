@@ -1,7 +1,7 @@
 # Chat Application Part 1
 ## Student Information
 . Name : Msimelelo
-. Student Number : Manxiwa
+. Student Number : ST10501039
 . Module : PROG5121
 
 ---
