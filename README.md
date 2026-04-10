@@ -18,7 +18,7 @@ Main.java
 checking  correct formart of the name used to login by the user.
 
 ### Password Validation
-checking password if it contains any invalid characters.
+Checking password if it contains any invalid characters.
 
 ### CellNumber Validation
 Checking if the number is valid.
