@@ -1,7 +1,7 @@
 # Chat Application Part 1
 ## Student Information
 . Name : Msimelelo
-. Surname : Manxiwa
+. Student Number : Manxiwa
 . Module : PROG5121
 
 ---
