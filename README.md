@@ -15,7 +15,7 @@ Main.java
 
 ## Features
 ### UserName Validation
-checking  correct formart of the name used to login by the user.
+Checking  correct formart of the name used to login by the user.
 
 ### Password Validation
 Checking password if it contains any invalid characters.
