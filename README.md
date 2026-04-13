@@ -15,13 +15,13 @@ Main.java
 
 ## Features
 ### UserName Validation
-Checking  correct formart of the name used to login by the user.
+Checking  correct formart of the name used to login by the user. less that five characters and underscore.
 
 ### Password Validation
-Checking password if it contains any invalid characters.
+Checking password if it contains any invalid characters. if the user used special character, number and upper case.
 
 ### CellNumber Validation
-Checking if the number is valid.
+Checking if the number is valid, must start with +27.
 
 
 
